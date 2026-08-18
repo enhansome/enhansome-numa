@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-22T14:00:16Z",
+            "last_commit": "2026-08-18T13:50:27Z",
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 730
+            "stars": 731
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-13T22:56:13Z",
             "owner": "llnl",
             "repo": "Umpire",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-16T16:32:23Z",
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3316
+            "stars": 3315
           }
         },
         {
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:57:09.216Z",
+    "last_updated": "2026-08-18T23:59:28.067Z",
     "original_repository": "domargan/awesome-numa",
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
     "enhanced_repository": "enhansome/enhansome-numa",
