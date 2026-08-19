@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "To add, remove or change things on the list: please submit a pull request to the GitHub repository.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13098944,
             "language": "C",
             "last_commit": "2026-08-18T13:50:27Z",
             "owner": "open-mpi",
@@ -34,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 991017,
                 "language": "Python",
                 "last_commit": "2019-11-05T10:55:59Z",
                 "owner": "smira",
@@ -48,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 217624912,
                 "language": "Go",
                 "last_commit": "2019-11-18T23:32:15Z",
                 "owner": "rakyll",
@@ -62,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 6811116,
                 "language": "C",
                 "last_commit": "2013-03-13T08:44:46Z",
                 "owner": "xerial",
@@ -76,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 112364631,
                 "language": "OCaml",
                 "last_commit": "2018-03-04T18:56:18Z",
                 "owner": "stevebleazard",
@@ -90,6 +90,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 132118660,
                 "language": "Rust",
                 "last_commit": "2018-05-17T00:24:10Z",
                 "owner": "cwpearson",
@@ -100,6 +101,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 22658715,
             "language": "C",
             "last_commit": "2026-08-03T20:50:56Z",
             "owner": "numactl",
@@ -114,6 +116,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70186647,
             "language": "C",
             "last_commit": "2021-07-14T06:04:48Z",
             "owner": "sergeyvfx",
@@ -125,7 +128,7 @@
       "title": "NUMA library bindings and interfaces"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -134,6 +137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22658715,
             "language": "C",
             "last_commit": "2026-08-03T20:50:56Z",
             "owner": "numactl",
@@ -148,6 +152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124938654,
             "language": "C++",
             "last_commit": "2026-08-13T22:56:13Z",
             "owner": "llnl",
@@ -162,6 +167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137729039,
             "language": "Python",
             "last_commit": "2026-08-16T16:32:23Z",
             "owner": "Scottcjn",
@@ -176,6 +182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58832202,
             "language": "Go",
             "last_commit": "2018-01-10T22:34:20Z",
             "owner": "kobolog",
@@ -190,6 +197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346822,
             "language": "C",
             "last_commit": "2021-05-19T08:39:39Z",
             "owner": "dankamongmen",
@@ -204,6 +212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161153924,
             "language": "Go",
             "last_commit": "2024-10-31T07:14:27Z",
             "owner": "lrita",
@@ -218,6 +227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219345109,
             "language": "Rust",
             "last_commit": "2021-04-29T20:55:46Z",
             "owner": "bastion-rs",
@@ -232,6 +242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57323506,
             "language": "C",
             "last_commit": "2021-08-26T06:56:32Z",
             "owner": "osmhpi",
@@ -246,6 +257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68851028,
             "language": "C++",
             "last_commit": "2016-09-21T20:50:27Z",
             "owner": "ReidAtcheson",
@@ -260,6 +272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288484886,
             "language": "C",
             "last_commit": "2020-08-21T20:38:21Z",
             "owner": "sss-lehigh",
@@ -274,6 +287,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5458546,
             "language": "C",
             "last_commit": "2012-08-17T23:29:12Z",
             "owner": "go2starr-archive",
@@ -285,7 +299,7 @@
       "title": "NUMA-aware memory placement and scheduling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,11 +308,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72425875,
             "language": "C++",
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3315
+            "stars": 3316
           }
         },
         {
@@ -308,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22658715,
             "language": "C",
             "last_commit": "2026-08-03T20:50:56Z",
             "owner": "numactl",
@@ -322,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8910387,
             "language": "C",
             "last_commit": "2025-12-03T06:10:38Z",
             "owner": "intel",
@@ -336,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9242757,
             "language": "Python",
             "last_commit": "2021-04-16T14:16:11Z",
             "owner": "lanceshelton",
@@ -350,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120311305,
             "language": "C++",
             "last_commit": "2026-06-30T09:00:41Z",
             "owner": "memtt",
@@ -364,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125033718,
             "language": "C",
             "last_commit": "2025-06-10T08:53:04Z",
             "owner": "numamma",
@@ -378,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32161623,
             "language": "R",
             "last_commit": "2019-02-07T19:07:14Z",
             "owner": "matthiasdiener",
@@ -392,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43838442,
             "language": "C",
             "last_commit": "2024-05-27T13:40:14Z",
             "owner": "numap-library",
@@ -406,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3457428,
             "language": "C++",
             "last_commit": "2012-04-23T21:26:14Z",
             "owner": "marksfu",
@@ -420,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69353766,
             "language": "Python",
             "last_commit": "2025-07-22T23:56:43Z",
             "owner": "SnuMAP",
@@ -434,6 +458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199993332,
             "language": "Go",
             "last_commit": "2019-08-14T14:17:08Z",
             "owner": "mJace",
@@ -445,7 +470,7 @@
       "title": "Observation and profiling tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -454,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140423406,
             "language": "C++",
             "last_commit": "2023-10-26T20:57:27Z",
             "owner": "c3sr",
@@ -468,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9210533,
             "language": "C++",
             "last_commit": "2015-02-03T19:16:59Z",
             "owner": "stephentu",
@@ -482,6 +509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174575689,
             "language": "C++",
             "last_commit": "2019-05-18T03:12:03Z",
             "owner": "sss-lehigh",
@@ -496,6 +524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66306194,
             "language": "Groff",
             "last_commit": "2016-11-11T15:56:34Z",
             "owner": "matthiasdiener",
@@ -510,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24907391,
             "language": "C",
             "last_commit": "2014-10-07T19:32:05Z",
             "owner": "BrownBigData",
@@ -521,7 +551,7 @@
       "title": "Benchmarking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -530,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20777182,
             "language": "C",
             "last_commit": "2014-06-12T19:35:57Z",
             "owner": "eelejalde",
@@ -544,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209903918,
             "language": "Rust",
             "last_commit": "2019-12-16T07:28:17Z",
             "owner": "ShisoftResearch",
@@ -558,25 +590,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102409237,
             "language": "C",
             "last_commit": "2017-09-04T23:04:18Z",
             "owner": "xqgex",
             "repo": "NUMA_Black-Box",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
       "title": "NUMA-aware data structures"
-    },
-    {
-      "description": "This list was compiled by Domagoj Margan with help and resources from the systems community.",
-      "items": [],
-      "title": "About"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:59:28.067Z",
+    "last_updated": "2026-08-19T12:46:55.524Z",
     "original_repository": "domargan/awesome-numa",
+    "original_repository_id": 288875345,
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
     "enhanced_repository": "enhansome/enhansome-numa",
     "enhanced_repository_description": null,
