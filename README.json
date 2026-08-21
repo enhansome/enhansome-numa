@@ -12,7 +12,7 @@
             "archived": false,
             "id": 13098944,
             "language": "C",
-            "last_commit": "2026-08-19T18:09:56Z",
+            "last_commit": "2026-08-20T14:04:13Z",
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 732
@@ -169,7 +169,7 @@
             "archived": false,
             "id": 1137729039,
             "language": "Python",
-            "last_commit": "2026-08-16T16:32:23Z",
+            "last_commit": "2026-08-20T15:47:11Z",
             "owner": "Scottcjn",
             "repo": "ram-coffers",
             "stars": 160
@@ -313,7 +313,7 @@
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3315
+            "stars": 3314
           }
         },
         {
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:59:31.507Z",
+    "last_updated": "2026-08-21T00:00:26.667Z",
     "original_repository": "domargan/awesome-numa",
     "original_repository_id": 288875345,
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
