@@ -313,7 +313,7 @@
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3314
+            "stars": 3315
           }
         },
         {
@@ -340,7 +340,7 @@
             "archived": false,
             "id": 8910387,
             "language": "C",
-            "last_commit": "2025-12-03T06:10:38Z",
+            "last_commit": "2026-08-21T02:06:14Z",
             "owner": "intel",
             "repo": "numatop",
             "stars": 212
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:00:26.667Z",
+    "last_updated": "2026-08-22T00:00:18.752Z",
     "original_repository": "domargan/awesome-numa",
     "original_repository_id": 288875345,
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
