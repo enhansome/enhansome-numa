@@ -313,7 +313,7 @@
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3315
+            "stars": 3316
           }
         },
         {
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:57:58.928Z",
+    "last_updated": "2026-08-24T14:42:41.639Z",
     "original_repository": "domargan/awesome-numa",
     "original_repository_id": 288875345,
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
