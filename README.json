@@ -603,9 +603,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:06:17.912Z",
-    "original_repository": "domargan/awesome-numa",
-    "original_repository_id": 288875345,
+    "last_updated": "2026-08-27T11:57:00.498Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 288875345,
+      "language": null,
+      "last_commit": "2026-05-12T00:07:30Z",
+      "owner": "domargan",
+      "repo": "awesome-numa",
+      "stars": 78
+    },
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
     "enhanced_repository": "enhansome/enhansome-numa",
     "enhanced_repository_description": null,
