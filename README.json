@@ -16,7 +16,8 @@
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "smira",
                 "repo": "py-numa",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:05:30.434Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "rakyll",
                 "repo": "go-numa",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T07:05:30.434Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "xerial",
                 "repo": "jnuma",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T07:05:30.434Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "stevebleazard",
                 "repo": "ocaml-numa",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:05:30.434Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "cwpearson",
                 "repo": "numa-rs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T07:05:30.434Z"
             }
           ],
           "repo_info": {
@@ -107,7 +113,8 @@
             "owner": "numactl",
             "repo": "numactl",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -122,7 +129,8 @@
             "owner": "sergeyvfx",
             "repo": "libNumaAPI",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         }
       ],
       "title": "NUMA library bindings and interfaces"
@@ -143,7 +151,8 @@
             "owner": "numactl",
             "repo": "numactl",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -157,8 +166,9 @@
             "last_commit": "2026-08-13T22:56:13Z",
             "owner": "llnl",
             "repo": "Umpire",
-            "stars": 419
-          }
+            "stars": 420
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -172,8 +182,9 @@
             "last_commit": "2026-08-20T15:47:11Z",
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 159
-          }
+            "stars": 158
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -188,7 +199,8 @@
             "owner": "kobolog",
             "repo": "tesson",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -203,7 +215,8 @@
             "owner": "dankamongmen",
             "repo": "libtorque",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -218,7 +231,8 @@
             "owner": "lrita",
             "repo": "numa",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -233,7 +247,8 @@
             "owner": "bastion-rs",
             "repo": "numanji",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -248,7 +263,8 @@
             "owner": "osmhpi",
             "repo": "pgasus",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -263,7 +279,8 @@
             "owner": "ReidAtcheson",
             "repo": "numaallocator",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -278,7 +295,8 @@
             "owner": "sss-lehigh",
             "repo": "numask",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -293,7 +311,8 @@
             "owner": "go2starr-archive",
             "repo": "numatool",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         }
       ],
       "title": "NUMA-aware memory placement and scheduling"
@@ -313,8 +332,9 @@
             "last_commit": "2026-08-11T13:42:45Z",
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3319
-          }
+            "stars": 3320
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "numactl",
             "repo": "numactl",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -344,7 +365,8 @@
             "owner": "intel",
             "repo": "numatop",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -359,7 +381,8 @@
             "owner": "lanceshelton",
             "repo": "irqstat",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -374,7 +397,8 @@
             "owner": "memtt",
             "repo": "numaprof",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -389,7 +413,8 @@
             "owner": "numamma",
             "repo": "numamma",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -404,7 +429,8 @@
             "owner": "matthiasdiener",
             "repo": "numalize",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -419,7 +445,8 @@
             "owner": "numap-library",
             "repo": "numap",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -434,7 +461,8 @@
             "owner": "marksfu",
             "repo": "Numa-Trace",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -449,7 +477,8 @@
             "owner": "SnuMAP",
             "repo": "SnuMAP",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -464,7 +493,8 @@
             "owner": "mJace",
             "repo": "numacc",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         }
       ],
       "title": "Observation and profiling tools"
@@ -485,7 +515,8 @@
             "owner": "c3sr",
             "repo": "comm_scope",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -500,7 +531,8 @@
             "owner": "stephentu",
             "repo": "numa-bench",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -515,7 +547,8 @@
             "owner": "sss-lehigh",
             "repo": "nurdma",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -530,7 +563,8 @@
             "owner": "matthiasdiener",
             "repo": "numafac",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -545,7 +579,8 @@
             "owner": "BrownBigData",
             "repo": "numabench",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         }
       ],
       "title": "Benchmarking"
@@ -566,7 +601,8 @@
             "owner": "eelejalde",
             "repo": "rw-numa-locks",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -581,7 +617,8 @@
             "owner": "ShisoftResearch",
             "repo": "Skyhooks",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         },
         {
           "node_type": "item",
@@ -596,14 +633,15 @@
             "owner": "xqgex",
             "repo": "NUMA_Black-Box",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:05:30.434Z"
         }
       ],
       "title": "NUMA-aware data structures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:00.498Z",
+    "last_updated": "2026-08-28T07:05:30.434Z",
     "original_repository_info": {
       "archived": false,
       "id": 288875345,
