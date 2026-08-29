@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware locality (hwloc)",
+            "homepage": "https://www.open-mpi.org/projects/hwloc",
             "id": 13098944,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T14:04:13Z",
+            "open_issues": 148,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "c",
+              "hardware",
+              "hpc",
+              "locality",
+              "topology"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -31,12 +42,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python interface to NUMA Linux library",
+                "homepage": "http://smira.github.com/py-numa/",
                 "id": 991017,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-05T10:55:59Z",
+                "open_issues": 3,
                 "owner": "smira",
                 "repo": "py-numa",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:30.434Z"
             },
@@ -47,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NUMA bindings for Go, requires libnuma.",
+                "homepage": null,
                 "id": 217624912,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-11-18T23:32:15Z",
+                "open_issues": 0,
                 "owner": "rakyll",
                 "repo": "go-numa",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:30.434Z"
             },
@@ -63,12 +84,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java library for accessing NUMA (Non Uniform Memory Access) API",
+                "homepage": null,
                 "id": 6811116,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2013-03-13T08:44:46Z",
+                "open_issues": 0,
                 "owner": "xerial",
                 "repo": "jnuma",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:30.434Z"
             },
@@ -79,12 +105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCAML Interface to Linux NUMA API",
+                "homepage": null,
                 "id": 112364631,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2018-03-04T18:56:18Z",
+                "open_issues": 0,
                 "owner": "stevebleazard",
                 "repo": "ocaml-numa",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:30.434Z"
             },
@@ -95,24 +126,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings for numa",
+                "homepage": null,
                 "id": 132118660,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2018-05-17T00:24:10Z",
+                "open_issues": 2,
                 "owner": "cwpearson",
                 "repo": "numa-rs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:30.434Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "NUMA support for Linux",
+            "homepage": null,
             "id": 22658715,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-03T20:50:56Z",
+            "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -123,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cross-platform API wrapper for NUMA technology",
+            "homepage": null,
             "id": 70186647,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-07-14T06:04:48Z",
+            "open_issues": 0,
             "owner": "sergeyvfx",
             "repo": "libNumaAPI",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         }
@@ -145,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA support for Linux",
+            "homepage": null,
             "id": 22658715,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-03T20:50:56Z",
+            "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -161,12 +212,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application-focused API for memory management on NUMA & GPU architectures",
+            "homepage": null,
             "id": 124938654,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-13T22:56:13Z",
+            "open_issues": 35,
             "owner": "llnl",
             "repo": "Umpire",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "blt",
+              "cpp",
+              "gpu",
+              "hpc",
+              "memory-management",
+              "portability",
+              "radiuss"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -177,12 +241,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterprise POWER8. Self-hosted inference, no cloud APIs. Part of the Proof of Physical AI stack.",
+            "homepage": "https://rustchain.org",
             "id": 1137729039,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T15:47:11Z",
+            "open_issues": 9,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "ai-inference",
+              "ai-infrastructure",
+              "cost-optimization",
+              "depin",
+              "edge-ai",
+              "energy-efficiency",
+              "hebbian",
+              "inference-optimization",
+              "llama-cpp",
+              "llm",
+              "llm-inference",
+              "llmops",
+              "numa",
+              "power8",
+              "powerpc",
+              "ppc64le",
+              "proof-of-physical-ai",
+              "self-hosted",
+              "transformer",
+              "vec-perm"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -193,12 +283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA-aware sharding with Docker",
+            "homepage": null,
             "id": 58832202,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2018-01-10T22:34:20Z",
+            "open_issues": 0,
             "owner": "kobolog",
             "repo": "tesson",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -209,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A threaded, continuations-based I/O event library for manycore NUMA machines",
+            "homepage": "http://dank.qemfd.net/dankwiki/index.php/Libtorque",
             "id": 346822,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-19T08:39:39Z",
+            "open_issues": 1,
             "owner": "dankamongmen",
             "repo": "libtorque",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -225,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code.",
+            "homepage": null,
             "id": 161153924,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-31T07:14:27Z",
+            "open_issues": 1,
             "owner": "lrita",
             "repo": "numa",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -241,12 +346,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-affinity first NUMA-aware allocator with optional fallback.",
+            "homepage": null,
             "id": 219345109,
             "language": "Rust",
+            "license": null,
             "last_commit": "2021-04-29T20:55:46Z",
+            "open_issues": 4,
             "owner": "bastion-rs",
             "repo": "numanji",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "allocator",
+              "globalallocator",
+              "mmap",
+              "numa",
+              "numa-aware",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -257,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ parallel programming framework for NUMA systems, based on PGAS semantics",
+            "homepage": null,
             "id": 57323506,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-26T06:56:32Z",
+            "open_issues": 0,
             "owner": "osmhpi",
             "repo": "pgasus",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -273,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple C++11 and beyond allocator to control",
+            "homepage": null,
             "id": 68851028,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-09-21T20:50:27Z",
+            "open_issues": 0,
             "owner": "ReidAtcheson",
             "repo": "numaallocator",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -289,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMASK is skip list designed to exploit the characteristics of Non-Uniform Memory Access (NUMA) architectures to improve performance",
+            "homepage": null,
             "id": 288484886,
             "language": "C",
+            "license": null,
             "last_commit": "2020-08-21T20:38:21Z",
+            "open_issues": 0,
             "owner": "sss-lehigh",
             "repo": "numask",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -305,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Wrapper to linux kernels `move_pages' system call to balance processes' pages across NUMA nodes.",
+            "homepage": null,
             "id": 5458546,
             "language": "C",
+            "license": null,
             "last_commit": "2012-08-17T23:29:12Z",
+            "open_issues": 0,
             "owner": "go2starr-archive",
             "repo": "numatool",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         }
@@ -327,12 +464,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intel® Performance Counter Monitor (Intel® PCM)",
+            "homepage": null,
             "id": 72425875,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-11T13:42:45Z",
+            "open_issues": 69,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3320
+            "stars": 3321,
+            "topics": [
+              "cpu",
+              "energy",
+              "freebsd",
+              "intel",
+              "linux",
+              "monitor-performance",
+              "monitoring",
+              "osx",
+              "pcm",
+              "performance-analysis",
+              "performance-counters",
+              "performance-dashboard",
+              "performance-metrics",
+              "performance-monitoring",
+              "performance-visualization",
+              "power",
+              "processor",
+              "processor-architecture",
+              "windows",
+              "xeon"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -343,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA support for Linux",
+            "homepage": null,
             "id": 22658715,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-03T20:50:56Z",
+            "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -359,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NumaTOP is an observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system.",
+            "homepage": null,
             "id": 8910387,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T02:06:14Z",
+            "open_issues": 15,
             "owner": "intel",
             "repo": "numatop",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -375,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better way to watch /proc/interrupts on NUMA servers",
+            "homepage": null,
             "id": 9242757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-16T14:16:11Z",
+            "open_issues": 1,
             "owner": "lanceshelton",
             "repo": "irqstat",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -391,12 +569,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMAPROF is a NUMA memory profliler based on Pintool to track your remote memory accesses.",
+            "homepage": "https://memtt.github.io/numaprof",
             "id": 120311305,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T09:00:41Z",
+            "open_issues": 25,
             "owner": "memtt",
             "repo": "numaprof",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "instrumentation",
+              "memory",
+              "numa",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -407,12 +595,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NumaMMA is a lightweight memory profiler for parallel applications",
+            "homepage": "https://numamma.github.io/numamma/",
             "id": 125033718,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-06-10T08:53:04Z",
+            "open_issues": 4,
             "owner": "numamma",
             "repo": "numamma",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "memory",
+              "numa",
+              "pebs",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -423,12 +621,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect memory access patterns of parallel applications",
+            "homepage": null,
             "id": 32161623,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2019-02-07T19:07:14Z",
+            "open_issues": 2,
             "owner": "matthiasdiener",
             "repo": "numalize",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "c-plus-plus",
+              "parallel-applications",
+              "pin",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -439,12 +647,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 43838442,
             "language": "C",
+            "license": null,
             "last_commit": "2024-05-27T13:40:14Z",
+            "open_issues": 1,
             "owner": "numap-library",
             "repo": "numap",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "memory",
+              "numa",
+              "pebs",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -455,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pin tool to track NUMA memory accesses",
+            "homepage": null,
             "id": 3457428,
             "language": "C++",
+            "license": null,
             "last_commit": "2012-04-23T21:26:14Z",
+            "open_issues": 0,
             "owner": "marksfu",
             "repo": "Numa-Trace",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -471,12 +694,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Trace Profiler for Multi/Manycore Systems",
+            "homepage": "http://csap.snu.ac.kr/software/snumap",
             "id": 69353766,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-22T23:56:43Z",
+            "open_issues": 1,
             "owner": "SnuMAP",
             "repo": "SnuMAP",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "multicore",
+              "numa",
+              "profiler",
+              "tracer"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -487,12 +720,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA Configuration Checker for Container ",
+            "homepage": null,
             "id": 199993332,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-14T14:17:08Z",
+            "open_issues": 0,
             "owner": "mJace",
             "repo": "numacc",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "container",
+              "cpu-affinity",
+              "numa",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         }
@@ -509,12 +752,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA-aware multi-CPU multi-GPU data transfer benchmarks",
+            "homepage": "https://github.com/c3sr/scope",
             "id": 140423406,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-26T20:57:27Z",
+            "open_issues": 14,
             "owner": "c3sr",
             "repo": "comm_scope",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "bandwidth",
+              "benchmark-suite",
+              "cuda",
+              "gpu",
+              "hip",
+              "numa",
+              "nvlink",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -525,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 9210533,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2015-02-03T19:16:59Z",
+            "open_issues": 0,
             "owner": "stephentu",
             "repo": "numa-bench",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -541,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understanding RDMA Behavior in NUMA Systems",
+            "homepage": null,
             "id": 174575689,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-05-18T03:12:03Z",
+            "open_issues": 0,
             "owner": "sss-lehigh",
             "repo": "nurdma",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -557,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts to calculate the NUMA factor.",
+            "homepage": null,
             "id": 66306194,
             "language": "Groff",
+            "license": null,
             "last_commit": "2016-11-11T15:56:34Z",
+            "open_issues": 0,
             "owner": "matthiasdiener",
             "repo": "numafac",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -573,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA benchmarking tool",
+            "homepage": null,
             "id": 24907391,
             "language": "C",
+            "license": null,
             "last_commit": "2014-10-07T19:32:05Z",
+            "open_issues": 0,
             "owner": "BrownBigData",
             "repo": "numabench",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         }
@@ -595,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUMA-Aware Reader-Writer Locks",
+            "homepage": null,
             "id": 20777182,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2014-06-12T19:35:57Z",
+            "open_issues": 0,
             "owner": "eelejalde",
             "repo": "rw-numa-locks",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -611,12 +893,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental NUMA-aware, lock-free heap memory allocator",
+            "homepage": null,
             "id": 209903918,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2019-12-16T07:28:17Z",
+            "open_issues": 0,
             "owner": "ShisoftResearch",
             "repo": "Skyhooks",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "lock-free",
+              "memory-allocator",
+              "numa-aware",
+              "rust-library"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         },
@@ -627,12 +919,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Black-box Concurrent Data Structures for NUMA Architectures",
+            "homepage": null,
             "id": 102409237,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-09-04T23:04:18Z",
+            "open_issues": 1,
             "owner": "xqgex",
             "repo": "NUMA_Black-Box",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "brown-university",
+              "c",
+              "numa",
+              "tau",
+              "tel-aviv-university"
+            ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
         }
@@ -641,15 +944,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:05:30.434Z",
+    "last_updated": "2026-08-29T04:32:04.601Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
+      "homepage": null,
       "id": 288875345,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-12T00:07:30Z",
+      "open_issues": 1,
       "owner": "domargan",
       "repo": "awesome-numa",
-      "stars": 78
+      "stars": 78,
+      "topics": [
+        "awesome-list",
+        "multiprocessing",
+        "multithreading",
+        "non-uniform-memory-access",
+        "numa",
+        "numa-aware",
+        "numa-benchmarks",
+        "numa-systems",
+        "shared-memory"
+      ]
     },
     "original_repository_sha": "9cb65358b140212572b80282dd4534c3be4b537a",
     "enhanced_repository": "enhansome/enhansome-numa",
