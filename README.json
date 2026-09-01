@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-20T14:04:13Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 732,
+            "stars": 735,
             "topics": [
               "c",
               "hardware",
@@ -247,7 +247,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T19:00:08Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
             "stars": 159,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:37:14.712Z",
+    "last_updated": "2026-09-01T02:03:50.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
