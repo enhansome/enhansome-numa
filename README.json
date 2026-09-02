@@ -221,7 +221,7 @@
             "open_issues": 35,
             "owner": "llnl",
             "repo": "Umpire",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "blt",
               "cpp",
@@ -247,10 +247,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T19:00:08Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 159,
+            "stars": 161,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:03:50.353Z",
+    "last_updated": "2026-09-02T01:25:54.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
