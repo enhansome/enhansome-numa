@@ -15,8 +15,8 @@
             "id": 13098944,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-20T14:04:13Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-02T14:01:38Z",
+            "open_issues": 150,
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 735,
@@ -152,7 +152,7 @@
             "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -200,7 +200,7 @@
             "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -250,7 +250,7 @@
             "open_issues": 19,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -515,7 +515,7 @@
             "open_issues": 16,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:25:54.775Z",
+    "last_updated": "2026-09-03T01:28:15.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
