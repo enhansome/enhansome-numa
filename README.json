@@ -250,7 +250,7 @@
             "open_issues": 19,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 160,
+            "stars": 163,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -881,7 +881,7 @@
             "open_issues": 0,
             "owner": "eelejalde",
             "repo": "rw-numa-locks",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:26:11.191Z",
+    "last_updated": "2026-09-06T01:20:53.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",

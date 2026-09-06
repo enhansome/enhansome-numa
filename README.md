@@ -27,7 +27,7 @@ To add, remove or change things on the list:
 
 * [Umpire](https://github.com/LLNL/Umpire) ⭐ 421 | 🐛 35 | 🌐 C++ | 📅 2026-09-03 - An application-focused API for memory management on NUMA & GPU architectures
 
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 160 | 🐛 19 | 🌐 Python | 📅 2026-09-03 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 163 | 🐛 19 | 🌐 Python | 📅 2026-09-03 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
 
 * [Tesson](https://github.com/kobolog/tesson) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2018-01-10 -  A tool for NUMA-aware sharding with Docker
 
@@ -71,7 +71,7 @@ To add, remove or change things on the list:
 
 ## NUMA-aware data structures
 
-* [rw-numa-locks](https://github.com/azu-labs/rw-numa-locks) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2014-06-12 - A NUMA-aware reader-writer locks
+* [rw-numa-locks](https://github.com/azu-labs/rw-numa-locks) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2014-06-12 - A NUMA-aware reader-writer locks
 * [Skyhooks](https://github.com/ShisoftResearch/Skyhooks) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2019-12-16 - An experimental NUMA-aware, lock-free heap memory allocator
 * [NUMA\_Black-Box](https://github.com/xqgex/NUMA_Black-Box) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2017-09-04 - Black-box concurrent data structures for NUMA architectures
 
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
