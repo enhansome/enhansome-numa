@@ -473,7 +473,7 @@
             "open_issues": 69,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3321,
+            "stars": 3323,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:20:53.805Z",
+    "last_updated": "2026-09-07T01:18:52.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
