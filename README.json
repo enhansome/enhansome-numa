@@ -217,7 +217,7 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:56:48Z",
+            "last_commit": "2026-09-10T07:45:34Z",
             "open_issues": 36,
             "owner": "llnl",
             "repo": "Umpire",
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:29:17.062Z",
+    "last_updated": "2026-09-11T01:29:25.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",

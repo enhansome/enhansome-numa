@@ -25,9 +25,9 @@ To add, remove or change things on the list:
 
 * [numactl](https://github.com/numactl/numactl) ⭐ 506 | 🐛 16 | 🌐 C | 📅 2026-08-03 - A program to run other programs with a specific NUMA policy
 
-* [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 36 | 🌐 C++ | 📅 2026-09-09 - An application-focused API for memory management on NUMA & GPU architectures
+* [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 36 | 🌐 C++ | 📅 2026-09-10 - An application-focused API for memory management on NUMA & GPU architectures
 
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 163 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 164 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
 
 * [Tesson](https://github.com/kobolog/tesson) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2018-01-10 -  A tool for NUMA-aware sharding with Docker
 
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
