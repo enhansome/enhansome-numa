@@ -247,10 +247,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-03T15:17:54Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:25:52.145Z",
+    "last_updated": "2026-09-14T01:43:02.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
