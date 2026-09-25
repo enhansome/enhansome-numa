@@ -217,8 +217,8 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:45:34Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-24T23:40:32Z",
+            "open_issues": 36,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 422,
@@ -247,7 +247,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-22T01:53:05Z",
-            "open_issues": 30,
+            "open_issues": 28,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
             "stars": 170,
@@ -473,7 +473,7 @@
             "open_issues": 69,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3332,
+            "stars": 3333,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:39:50.129Z",
+    "last_updated": "2026-09-25T01:55:27.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
