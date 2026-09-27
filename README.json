@@ -246,7 +246,7 @@
             "id": 1137729039,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-22T01:53:05Z",
+            "last_commit": "2026-09-26T23:25:58Z",
             "open_issues": 28,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
@@ -473,7 +473,7 @@
             "open_issues": 69,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T02:02:16.370Z",
+    "last_updated": "2026-09-27T01:50:16.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",

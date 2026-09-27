@@ -27,7 +27,7 @@ To add, remove or change things on the list:
 
 * [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 37 | 🌐 C++ | 📅 2026-09-25 - An application-focused API for memory management on NUMA & GPU architectures
 
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 170 | 🐛 28 | 🌐 Python | 📅 2026-09-22 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 170 | 🐛 28 | 🌐 Python | 📅 2026-09-26 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
 
 * [Tesson](https://github.com/kobolog/tesson) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2018-01-10 -  A tool for NUMA-aware sharding with Docker
 
@@ -49,7 +49,7 @@ To add, remove or change things on the list:
 
 ## Observation and profiling tools
 
-* [pcm-numa](https://github.com/opcm/pcm) ⭐ 3,333 | 🐛 69 | 🌐 C++ | 📅 2026-09-16- A tool to monitor local and remote memory accesses on a NUMA system
+* [pcm-numa](https://github.com/opcm/pcm) ⭐ 3,334 | 🐛 69 | 🌐 C++ | 📅 2026-09-16- A tool to monitor local and remote memory accesses on a NUMA system
 * [numastat](https://github.com/numactl/numactl) ⭐ 509 | 🐛 17 | 🌐 C | 📅 2026-09-23 - A program display NUMA allocation statistics
 * [NumaTOP](https://github.com/intel/numatop) ⭐ 212 | 🐛 15 | 🌐 C | 📅 2026-08-21 - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
 * [irqstat](https://github.com/lanceshelton/irqstat) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2021-04-16 - A `/proc/interrupts` watcher designed for NUMA systems
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
