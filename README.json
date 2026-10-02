@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 741,
+            "stars": 742,
             "topics": [
               "c",
               "hardware",
@@ -217,8 +217,8 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:32:54Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-01T20:37:04Z",
+            "open_issues": 38,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 422,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:27:55.407Z",
+    "last_updated": "2026-10-02T02:35:35.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
