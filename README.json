@@ -470,10 +470,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T08:23:35Z",
-            "open_issues": 67,
+            "open_issues": 66,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3335,
+            "stars": 3336,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:35:35.869Z",
+    "last_updated": "2026-10-03T02:20:37.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
