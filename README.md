@@ -7,7 +7,7 @@ A community-oriented list of libraries, tools, and resources aimed to assist wit
 ## Contributing
 
 To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/domargan/awesome-numa) ⭐ 78 | 🐛 1 | 📅 2026-05-12.
+[please submit a pull request to the GitHub repository](https://github.com/domargan/awesome-numa).
 
 ## NUMA library bindings and interfaces
 
