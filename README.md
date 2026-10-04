@@ -11,7 +11,7 @@ To add, remove or change things on the list:
 
 ## NUMA library bindings and interfaces
 
-* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 742 | 🐛 151 | 🌐 C | 📅 2026-09-25 - A portable API to detect and exploit the topology of parallel architectures
+* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 743 | 🐛 151 | 🌐 C | 📅 2026-09-25 - A portable API to detect and exploit the topology of parallel architectures
 * [libnuma](https://github.com/numactl/numactl) ⭐ 509 | 🐛 16 | 🌐 C | 📅 2026-09-28 - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
   * [py-numa](https://github.com/smira/py-numa) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2019-11-05 - Python bindings for libnuma
   * [go-numa](https://github.com/rakyll/go-numa) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2019-11-18 - Go bindings for libnuma
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

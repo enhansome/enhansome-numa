@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 742,
+            "stars": 743,
             "topics": [
               "c",
               "hardware",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:30.757Z",
+    "last_updated": "2026-10-04T02:52:15.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
