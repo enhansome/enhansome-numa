@@ -218,7 +218,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-01T20:37:04Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 422,
@@ -250,7 +250,7 @@
             "open_issues": 29,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -313,7 +313,7 @@
             "open_issues": 1,
             "owner": "dankamongmen",
             "repo": "libtorque",
-            "stars": 76,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -470,7 +470,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T08:23:35Z",
-            "open_issues": 66,
+            "open_issues": 68,
             "owner": "intel",
             "repo": "pcm",
             "stars": 3338,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:32.786Z",
+    "last_updated": "2026-10-07T02:42:10.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
