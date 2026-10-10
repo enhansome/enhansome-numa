@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "c",
               "hardware",
@@ -236,48 +236,6 @@
         },
         {
           "node_type": "item",
-          "title": "RAM Coffers",
-          "description": "NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterprise POWER8. Self-hosted inference, no cloud APIs. Part of the Proof of Physical AI stack.",
-            "homepage": "https://rustchain.org",
-            "id": 1137729039,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T16:32:47Z",
-            "open_issues": 29,
-            "owner": "Scottcjn",
-            "repo": "ram-coffers",
-            "stars": 171,
-            "topics": [
-              "ai-inference",
-              "ai-infrastructure",
-              "cost-optimization",
-              "depin",
-              "edge-ai",
-              "energy-efficiency",
-              "hebbian",
-              "inference-optimization",
-              "llama-cpp",
-              "llm",
-              "llm-inference",
-              "llmops",
-              "numa",
-              "power8",
-              "powerpc",
-              "ppc64le",
-              "proof-of-physical-ai",
-              "self-hosted",
-              "transformer",
-              "vec-perm"
-            ]
-          },
-          "first_seen": "2026-08-28T07:05:30.434Z"
-        },
-        {
-          "node_type": "item",
           "title": "Tesson",
           "description": "A tool for NUMA-aware sharding with Docker",
           "children": [],
@@ -469,11 +427,11 @@
             "id": 72425875,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T06:05:26Z",
+            "last_commit": "2026-10-09T13:19:10Z",
             "open_issues": 66,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3341,
+            "stars": 3340,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:05:20.273Z",
+    "last_updated": "2026-10-10T02:47:11.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
