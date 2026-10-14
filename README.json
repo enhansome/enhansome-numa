@@ -15,7 +15,7 @@
             "id": 13098944,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T14:11:45Z",
+            "last_commit": "2026-10-13T13:31:41Z",
             "open_issues": 151,
             "owner": "open-mpi",
             "repo": "hwloc",
@@ -217,8 +217,8 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:14:41Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-13T21:22:15Z",
+            "open_issues": 36,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 422,
@@ -431,7 +431,7 @@
             "open_issues": 66,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3343,
+            "stars": 3344,
             "topics": [
               "cpu",
               "energy",
@@ -494,7 +494,7 @@
             "open_issues": 15,
             "owner": "intel",
             "repo": "numatop",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:54:15.663Z",
+    "last_updated": "2026-10-14T02:10:24.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
