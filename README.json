@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "c",
               "hardware",
@@ -149,10 +149,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-16T13:25:59Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -197,10 +197,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-16T13:25:59Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -217,8 +217,8 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-15T14:17:13Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-20T15:57:22Z",
+            "open_issues": 37,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 422,
@@ -470,10 +470,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-16T13:25:59Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:06:48.046Z",
+    "last_updated": "2026-10-21T02:03:35.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
