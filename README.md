@@ -11,8 +11,8 @@ To add, remove or change things on the list:
 
 ## NUMA library bindings and interfaces
 
-* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 749 | 🐛 151 | 🌐 C | 📅 2026-10-15 - A portable API to detect and exploit the topology of parallel architectures
-* [libnuma](https://github.com/numactl/numactl) ⭐ 510 | 🐛 18 | 🌐 C | 📅 2026-10-16 - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
+* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 749 | 🐛 150 | 🌐 C | 📅 2026-10-21 - A portable API to detect and exploit the topology of parallel architectures
+* [libnuma](https://github.com/numactl/numactl) ⭐ 510 | 🐛 19 | 🌐 C | 📅 2026-10-16 - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
   * [py-numa](https://github.com/smira/py-numa) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2019-11-05 - Python bindings for libnuma
   * [go-numa](https://github.com/rakyll/go-numa) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2019-11-18 - Go bindings for libnuma
   * [jnuma](https://github.com/xerial/jnuma) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2013-03-13 - Java bindings for libnuma
@@ -23,9 +23,9 @@ To add, remove or change things on the list:
 
 ## NUMA-aware memory placement and scheduling
 
-* [numactl](https://github.com/numactl/numactl) ⭐ 510 | 🐛 18 | 🌐 C | 📅 2026-10-16 - A program to run other programs with a specific NUMA policy
+* [numactl](https://github.com/numactl/numactl) ⭐ 510 | 🐛 19 | 🌐 C | 📅 2026-10-16 - A program to run other programs with a specific NUMA policy
 
-* [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 37 | 🌐 C++ | 📅 2026-10-20 - An application-focused API for memory management on NUMA & GPU architectures
+* [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 35 | 🌐 C++ | 📅 2026-10-21 - An application-focused API for memory management on NUMA & GPU architectures
 
 * [Tesson](https://github.com/kobolog/tesson) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2018-01-10 -  A tool for NUMA-aware sharding with Docker
 
@@ -49,8 +49,8 @@ To add, remove or change things on the list:
 
 ## Observation and profiling tools
 
-* [pcm-numa](https://github.com/opcm/pcm) ⭐ 3,348 | 🐛 67 | 🌐 C++ | 📅 2026-10-15- A tool to monitor local and remote memory accesses on a NUMA system
-* [numastat](https://github.com/numactl/numactl) ⭐ 510 | 🐛 18 | 🌐 C | 📅 2026-10-16 - A program display NUMA allocation statistics
+* [pcm-numa](https://github.com/opcm/pcm) ⭐ 3,349 | 🐛 67 | 🌐 C++ | 📅 2026-10-15- A tool to monitor local and remote memory accesses on a NUMA system
+* [numastat](https://github.com/numactl/numactl) ⭐ 510 | 🐛 19 | 🌐 C | 📅 2026-10-16 - A program display NUMA allocation statistics
 * [NumaTOP](https://github.com/intel/numatop) ⭐ 214 | 🐛 15 | 🌐 C | 📅 2026-08-21 - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
 * [irqstat](https://github.com/lanceshelton/irqstat) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2021-04-16 - A `/proc/interrupts` watcher designed for NUMA systems
 * [NUMAPROF](https://github.com/memtt/numaprof) ⭐ 55 | 🐛 25 | 🌐 C++ | 📅 2026-06-30 - A NUMA memory profliler based on Pintool to track remote memory accesses
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
