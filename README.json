@@ -494,7 +494,7 @@
             "open_issues": 15,
             "owner": "intel",
             "repo": "numatop",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:59:58.749Z",
+    "last_updated": "2026-10-25T01:40:53.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",

@@ -51,7 +51,7 @@ To add, remove or change things on the list:
 
 * [pcm-numa](https://github.com/opcm/pcm) ⭐ 3,351 | 🐛 67 | 🌐 C++ | 📅 2026-10-15- A tool to monitor local and remote memory accesses on a NUMA system
 * [numastat](https://github.com/numactl/numactl) ⭐ 510 | 🐛 17 | 🌐 C | 📅 2026-10-22 - A program display NUMA allocation statistics
-* [NumaTOP](https://github.com/intel/numatop) ⭐ 214 | 🐛 15 | 🌐 C | 📅 2026-08-21 - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
+* [NumaTOP](https://github.com/intel/numatop) ⭐ 213 | 🐛 15 | 🌐 C | 📅 2026-08-21 - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
 * [irqstat](https://github.com/lanceshelton/irqstat) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2021-04-16 - A `/proc/interrupts` watcher designed for NUMA systems
 * [NUMAPROF](https://github.com/memtt/numaprof) ⭐ 55 | 🐛 25 | 🌐 C++ | 📅 2026-06-30 - A NUMA memory profliler based on Pintool to track remote memory accesses
 * [NumaMMA](https://github.com/numamma/numamma) ⭐ 32 | 🐛 4 | 🌐 C | 📅 2025-06-10 - A lightweight NUMA memory profiler/analyzer and a NUMA application execution engin
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
