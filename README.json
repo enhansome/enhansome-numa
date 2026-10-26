@@ -16,7 +16,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T09:31:49Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 749,
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:40:53.224Z",
+    "last_updated": "2026-10-26T01:45:35.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
