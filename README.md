@@ -25,7 +25,7 @@ To add, remove or change things on the list:
 
 * [numactl](https://github.com/numactl/numactl) ⭐ 510 | 🐛 17 | 🌐 C | 📅 2026-10-22 - A program to run other programs with a specific NUMA policy
 
-* [Umpire](https://github.com/LLNL/Umpire) ⭐ 422 | 🐛 35 | 🌐 C++ | 📅 2026-10-23 - An application-focused API for memory management on NUMA & GPU architectures
+* [Umpire](https://github.com/LLNL/Umpire) ⭐ 423 | 🐛 35 | 🌐 C++ | 📅 2026-10-23 - An application-focused API for memory management on NUMA & GPU architectures
 
 * [Tesson](https://github.com/kobolog/tesson) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2018-01-10 -  A tool for NUMA-aware sharding with Docker
 
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
