@@ -15,11 +15,11 @@
             "id": 13098944,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T09:31:49Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-28T11:41:41Z",
+            "open_issues": 152,
             "owner": "open-mpi",
             "repo": "hwloc",
-            "stars": 749,
+            "stars": 747,
             "topics": [
               "c",
               "hardware",
@@ -221,7 +221,7 @@
             "open_issues": 35,
             "owner": "llnl",
             "repo": "Umpire",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "blt",
               "cpp",
@@ -233,6 +233,48 @@
             ]
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RAM Coffers",
+          "description": "NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterprise POWER8. Self-hosted inference, no cloud APIs. Part of the Proof of Physical AI stack.",
+            "homepage": "https://rustchain.org",
+            "id": 1137729039,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-27T16:32:47Z",
+            "open_issues": 31,
+            "owner": "Scottcjn",
+            "repo": "ram-coffers",
+            "stars": 171,
+            "topics": [
+              "ai-inference",
+              "ai-infrastructure",
+              "cost-optimization",
+              "depin",
+              "edge-ai",
+              "energy-efficiency",
+              "hebbian",
+              "inference-optimization",
+              "llama-cpp",
+              "llm",
+              "llm-inference",
+              "llmops",
+              "numa",
+              "power8",
+              "powerpc",
+              "ppc64le",
+              "proof-of-physical-ai",
+              "self-hosted",
+              "transformer",
+              "vec-perm"
+            ]
+          },
+          "first_seen": "2026-10-29T02:54:40.611Z"
         },
         {
           "node_type": "item",
@@ -428,10 +470,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-15T09:08:16Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3351,
+            "stars": 3350,
             "topics": [
               "cpu",
               "energy",
@@ -902,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:35:41.791Z",
+    "last_updated": "2026-10-29T02:54:40.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
