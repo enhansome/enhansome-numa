@@ -11,7 +11,7 @@ To add, remove or change things on the list:
 
 ## NUMA library bindings and interfaces
 
-* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 747 | 🐛 152 | 🌐 C | 📅 2026-10-28 - A portable API to detect and exploit the topology of parallel architectures
+* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 747 | 🐛 152 | 🌐 C | 📅 2026-10-29 - A portable API to detect and exploit the topology of parallel architectures
 * [libnuma](https://github.com/numactl/numactl) ⭐ 510 | 🐛 17 | 🌐 C | 📅 2026-10-22 - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
   * [py-numa](https://github.com/smira/py-numa) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2019-11-05 - Python bindings for libnuma
   * [go-numa](https://github.com/rakyll/go-numa) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2019-11-18 - Go bindings for libnuma
@@ -25,7 +25,7 @@ To add, remove or change things on the list:
 
 * [numactl](https://github.com/numactl/numactl) ⭐ 510 | 🐛 17 | 🌐 C | 📅 2026-10-22 - A program to run other programs with a specific NUMA policy
 
-* [Umpire](https://github.com/LLNL/Umpire) ⭐ 424 | 🐛 35 | 🌐 C++ | 📅 2026-10-23 - An application-focused API for memory management on NUMA & GPU architectures
+* [Umpire](https://github.com/LLNL/Umpire) ⭐ 424 | 🐛 33 | 🌐 C++ | 📅 2026-10-29 - An application-focused API for memory management on NUMA & GPU architectures
 
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 171 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
 
@@ -63,7 +63,7 @@ To add, remove or change things on the list:
 
 ## Benchmarking
 
-* [Comm|Scope](https://github.com/c3sr/comm_scope) ⭐ 28 | 🐛 14 | 🌐 C++ | 📅 2023-10-26 - A NUMA-aware multi-CPU multi-GPU CUDA data transfer benchmarks
+* [Comm|Scope](https://github.com/c3sr/comm_scope) ⭐ 27 | 🐛 14 | 🌐 C++ | 📅 2023-10-26 - A NUMA-aware multi-CPU multi-GPU CUDA data transfer benchmarks
 * [numa-bench](https://github.com/stephentu/numa-bench) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2015-02-03 - A NUMA-aware memory allocation benchmark
 * [nurdma](https://github.com/sss-lehigh/nurdma) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2019-05-18 - Understanding RDMA behavior in NUMA systems
 * [Numafac](https://github.com/matthiasdiener/numafac) ⭐ 2 | 🐛 0 | 🌐 Groff | 📅 2016-11-11 - Scripts to calculate the NUMA factor of NUMA machines, based on the stream and lmbench3 benchmarks
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
