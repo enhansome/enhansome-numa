@@ -152,7 +152,7 @@
             "open_issues": 17,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 510,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -200,7 +200,7 @@
             "open_issues": 17,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 510,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -217,8 +217,8 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-29T23:33:39Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-30T21:46:45Z",
+            "open_issues": 32,
             "owner": "llnl",
             "repo": "Umpire",
             "stars": 424,
@@ -250,7 +250,7 @@
             "open_issues": 31,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 171,
+            "stars": 173,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -473,7 +473,7 @@
             "open_issues": 68,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3350,
+            "stars": 3352,
             "topics": [
               "cpu",
               "energy",
@@ -515,7 +515,7 @@
             "open_issues": 17,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 510,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -578,7 +578,7 @@
             "open_issues": 25,
             "owner": "memtt",
             "repo": "numaprof",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "instrumentation",
               "memory",
@@ -604,7 +604,7 @@
             "open_issues": 4,
             "owner": "numamma",
             "repo": "numamma",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "memory",
               "numa",
@@ -630,7 +630,7 @@
             "open_issues": 1,
             "owner": "numap-library",
             "repo": "numap",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "memory",
               "numa",
@@ -928,7 +928,7 @@
             "open_issues": 1,
             "owner": "xqgex",
             "repo": "NUMA_Black-Box",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "brown-university",
               "c",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:59:03.792Z",
+    "last_updated": "2026-10-31T02:44:19.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
