@@ -16,7 +16,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T20:30:15Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 747,
@@ -536,7 +536,7 @@
             "open_issues": 15,
             "owner": "intel",
             "repo": "numatop",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:37:18.408Z",
+    "last_updated": "2026-11-02T02:45:07.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
