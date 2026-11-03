@@ -11,7 +11,7 @@ To add, remove or change things on the list:
 
 ## NUMA library bindings and interfaces
 
-* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 747 | 🐛 155 | 🌐 C | 📅 2026-10-29 - A portable API to detect and exploit the topology of parallel architectures
+* [hwloc](https://github.com/open-mpi/hwloc) ⭐ 746 | 🐛 153 | 🌐 C | 📅 2026-11-02 - A portable API to detect and exploit the topology of parallel architectures
 * [libnuma](https://github.com/numactl/numactl) ⭐ 509 | 🐛 17 | 🌐 C | 📅 2026-10-22 - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
   * [py-numa](https://github.com/smira/py-numa) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2019-11-05 - Python bindings for libnuma
   * [go-numa](https://github.com/rakyll/go-numa) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2019-11-18 - Go bindings for libnuma
@@ -25,7 +25,7 @@ To add, remove or change things on the list:
 
 * [numactl](https://github.com/numactl/numactl) ⭐ 509 | 🐛 17 | 🌐 C | 📅 2026-10-22 - A program to run other programs with a specific NUMA policy
 
-* [Umpire](https://github.com/LLNL/Umpire) ⭐ 424 | 🐛 32 | 🌐 C++ | 📅 2026-10-30 - An application-focused API for memory management on NUMA & GPU architectures
+* [Umpire](https://github.com/LLNL/Umpire) ⭐ 424 | 🐛 32 | 🌐 C++ | 📅 2026-11-03 - An application-focused API for memory management on NUMA & GPU architectures
 
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 173 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
 
@@ -53,7 +53,7 @@ To add, remove or change things on the list:
 * [numastat](https://github.com/numactl/numactl) ⭐ 509 | 🐛 17 | 🌐 C | 📅 2026-10-22 - A program display NUMA allocation statistics
 * [NumaTOP](https://github.com/intel/numatop) ⭐ 214 | 🐛 15 | 🌐 C | 📅 2026-08-21 - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
 * [irqstat](https://github.com/lanceshelton/irqstat) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2021-04-16 - A `/proc/interrupts` watcher designed for NUMA systems
-* [NUMAPROF](https://github.com/memtt/numaprof) ⭐ 56 | 🐛 25 | 🌐 C++ | 📅 2026-06-30 - A NUMA memory profliler based on Pintool to track remote memory accesses
+* [NUMAPROF](https://github.com/memtt/numaprof) ⭐ 55 | 🐛 25 | 🌐 C++ | 📅 2026-06-30 - A NUMA memory profliler based on Pintool to track remote memory accesses
 * [NumaMMA](https://github.com/numamma/numamma) ⭐ 33 | 🐛 4 | 🌐 C | 📅 2025-06-10 - A lightweight NUMA memory profiler/analyzer and a NUMA application execution engin
 * [numap](https://github.com/numap-library/numap) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2024-05-27 - A Linux library for memory profiling based on hardware performance monitoring unit
 * [Numalize](https://github.com/matthiasdiener/numalize) ⭐ 21 | 🐛 2 | 🌐 R | 📅 2019-02-07 - A memory tracing tool to detect communication and page usage of NUMA applications
@@ -81,4 +81,4 @@ This list was compiled by [Domagoj Margan](https://github.com/domargan) with hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
