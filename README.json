@@ -15,8 +15,8 @@
             "id": 13098944,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T08:41:47Z",
-            "open_issues": 158,
+            "last_commit": "2026-11-09T09:32:06Z",
+            "open_issues": 157,
             "owner": "open-mpi",
             "repo": "hwloc",
             "stars": 747,
@@ -473,7 +473,7 @@
             "open_issues": 68,
             "owner": "intel",
             "repo": "pcm",
-            "stars": 3357,
+            "stars": 3359,
             "topics": [
               "cpu",
               "energy",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:59:23.971Z",
+    "last_updated": "2026-11-10T04:47:33.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
