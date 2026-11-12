@@ -217,7 +217,7 @@
             "id": 124938654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:51:40Z",
+            "last_commit": "2026-11-11T19:14:04Z",
             "open_issues": 36,
             "owner": "llnl",
             "repo": "Umpire",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:04:03.851Z",
+    "last_updated": "2026-11-12T04:19:24.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
