@@ -152,7 +152,7 @@
             "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -200,7 +200,7 @@
             "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -515,7 +515,7 @@
             "open_issues": 18,
             "owner": "numactl",
             "repo": "numactl",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:30.434Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:17:24.453Z",
+    "last_updated": "2026-11-22T03:30:10.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
