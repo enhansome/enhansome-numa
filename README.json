@@ -250,7 +250,7 @@
             "open_issues": 28,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 168,
+            "stars": 167,
             "topics": [
               "ai-inference",
               "ai-infrastructure",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:22:55.580Z",
+    "last_updated": "2026-11-28T04:58:48.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-oriented list of useful NUMA-related libraries, tools, and other resources",
